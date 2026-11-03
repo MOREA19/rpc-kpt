@@ -1,0 +1,3 @@
+Saldo akhir : A=890  B=620  total=1510  (transfer dieksekusi server: 50x)
+Harapan     : A=500  B=1000  total=1500
+HASIL       : RACE CONDITION TERJADI (saldo salah / uang hilang atau muncul)

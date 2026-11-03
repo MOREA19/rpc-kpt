@@ -1,0 +1,13 @@
+Mengirim banyak nilai (client streaming):
+  mengirim 2023002 Jaringan = 80
+  mengirim 2023002 Sistem Operasi = 75.5
+  mengirim 2023002 Komputasi Paralel = 90
+  mengirim 2023003 Basis Data = 70
+  mengirim 2023003 Jaringan = 150
+Respons server: True - 4 nilai tersimpan, 1 ditolak
+
+Verifikasi dengan StreamNilai(2023002):
+  Basis Data: 92.0
+  Jaringan: 80.0
+  Sistem Operasi: 75.5
+  Komputasi Paralel: 90.0

@@ -1,0 +1,4 @@
+[Sari] masuk ruang diskusi
+[Sari] <- Andi: Halo semua
+[Sari] <- Andi: Ada tugas RPC?
+[Sari] keluar

@@ -1,0 +1,4 @@
+Host server        : localhost
+100x fungsi lokal   : 0.0118 ms (rata-rata 0.118 us/panggilan)
+100x RPC XML-RPC    : 62.67 ms (rata-rata 0.627 ms/panggilan)
+RPC lebih lambat   : 5,334x

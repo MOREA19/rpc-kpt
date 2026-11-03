@@ -1,0 +1,40 @@
+Panggilan 1: tambah(1, 10)
+  hasil = 11
+Panggilan 2: tambah(2, 10)
+  hasil = 12
+Panggilan 3: tambah(3, 10)
+  hasil = 13
+Panggilan 4: tambah(4, 10)
+  hasil = 14
+Panggilan 5: tambah(5, 10)
+  [ConnectionRefusedError] server tidak berjalan / port tertutup
+  ulang dalam 1.0s (percobaan 1/3)
+  [ConnectionRefusedError] server tidak berjalan / port tertutup
+  ulang dalam 1.0s (percobaan 2/3)
+  [ConnectionRefusedError] server tidak berjalan / port tertutup
+  GAGAL: server tidak dapat dihubungi
+  hasil = None
+Panggilan 6: tambah(6, 10)
+  [ConnectionRefusedError] server tidak berjalan / port tertutup
+  ulang dalam 1.0s (percobaan 1/3)
+  [ConnectionRefusedError] server tidak berjalan / port tertutup
+  ulang dalam 1.0s (percobaan 2/3)
+  hasil = 16
+Panggilan 7: tambah(7, 10)
+  hasil = 17
+Panggilan 8: tambah(8, 10)
+  hasil = 18
+Panggilan 9: tambah(9, 10)
+  hasil = 19
+Panggilan 10: tambah(10, 10)
+  hasil = 20
+Panggilan 11: tambah(11, 10)
+  hasil = 21
+Panggilan 12: tambah(12, 10)
+  hasil = 22
+Panggilan 13: tambah(13, 10)
+  hasil = 23
+Panggilan 14: tambah(14, 10)
+  hasil = 24
+Panggilan 15: tambah(15, 10)
+  hasil = 25

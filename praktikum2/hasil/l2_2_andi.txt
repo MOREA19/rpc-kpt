@@ -1,0 +1,4 @@
+[Andi] masuk ruang diskusi
+[Andi] <- Sari: (bergabung)
+[Andi] <- Sari: Halo Andi, ada praktikum 3
+[Andi] keluar

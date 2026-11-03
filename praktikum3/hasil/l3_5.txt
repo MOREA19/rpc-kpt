@@ -1,0 +1,12 @@
+#01 dijawab oleh localhost:50051: Andi IPK 3.26
+#02 dijawab oleh localhost:50051: Andi IPK 3.26
+#03 dijawab oleh localhost:50051: Andi IPK 3.26
+#04 dijawab oleh localhost:50051: Andi IPK 3.26
+  !! localhost:50051 UNAVAILABLE
+  >> FAILOVER: pindah dari localhost:50051 ke localhost:50052
+#05 dijawab oleh localhost:50052: Andi IPK 3.26
+#06 dijawab oleh localhost:50052: Andi IPK 3.26
+#07 dijawab oleh localhost:50052: Andi IPK 3.26
+#08 dijawab oleh localhost:50052: Andi IPK 3.26
+#09 dijawab oleh localhost:50052: Andi IPK 3.26
+#10 dijawab oleh localhost:50052: Andi IPK 3.26

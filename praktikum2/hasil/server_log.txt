@@ -1,0 +1,8 @@
+Server gRPC berjalan di port 50051...
+[diskusi] Andi: (bergabung)
+[diskusi] Sari: (bergabung)
+[diskusi] Andi: Halo semua
+[diskusi] Sari: Halo Andi, ada praktikum 3
+[diskusi] Andi: Ada tugas RPC?
+[diskusi] Sari keluar dari ruang diskusi
+[diskusi] Andi keluar dari ruang diskusi

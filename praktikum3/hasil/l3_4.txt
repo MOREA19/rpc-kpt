@@ -1,0 +1,10 @@
+workers=1  total= 20.26s throughput=   9.9 req/s latensi rata-rata= 1929.5 ms
+workers=4  total=  5.14s throughput=  38.9 req/s latensi rata-rata=  493.0 ms
+workers=10 total=  2.05s throughput=  97.6 req/s latensi rata-rata=  199.0 ms
+
+| max_workers | Waktu total (s) | Throughput (req/s) | Latensi rata-rata (ms) |
+|---|---|---|---|
+| 1 | 20.26 | 9.9 | 1929.5 |
+| 4 | 5.14 | 38.9 | 493.0 |
+| 10 | 2.05 | 97.6 | 199.0 |
+Grafik disimpan di hasil/l3_4_grafik.png

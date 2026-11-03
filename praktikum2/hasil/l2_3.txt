@@ -1,0 +1,6 @@
+Field yang dikenal client lama: ['nim', 'nama', 'ipk']
+Berhasil: Andi - IPK 3.35
+Ada atribut 'prodi' di client lama? False
+Serialisasi ulang oleh client lama: 37 byte -> b'\n\x072023001\x12\x04Andi\x19\xcd\xcc\xcc\xcc\xcc\xcc\n@"\x0bInformatika'
+(byte 'Informatika' masih ada = field 4 disimpan sebagai unknown field)
+Nilai tersimpan

@@ -1,0 +1,32 @@
+=== methodCall (request) ===
+<?xml version='1.0'?>
+<methodCall>
+<methodName>tambah</methodName>
+<params>
+<param>
+<value><int>5</int></value>
+</param>
+<param>
+<value><int>3</int></value>
+</param>
+</params>
+</methodCall>
+
+Ukuran XML     : 190 byte
+Data sebenarnya: 8 byte (4.2%)
+Overhead format: 182 byte (95.8%)
+
+=== methodResponse (response) ===
+<?xml version='1.0'?>
+<methodResponse>
+<params>
+<param>
+<value><int>8</int></value>
+</param>
+</params>
+</methodResponse>
+
+Ukuran XML     : 121 byte
+Data sebenarnya: 1 byte (0.8%)
+Overhead format: 120 byte (99.2%)
+

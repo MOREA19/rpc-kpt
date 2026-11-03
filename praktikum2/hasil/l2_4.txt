@@ -1,0 +1,13 @@
+Protobuf bytes : b'\n\x072023001\x12\x04Andi\x19\x14\xaeG\xe1z\x14\n@'
+
+Pesan                        Ukuran (byte)
+------------------------------------------
+Respons Protobuf                        24
+Respons JSON (pembanding)               42
+Respons XML-RPC                        350
+Request Protobuf                         9
+Request XML-RPC                        164
+
+XML-RPC 14.6x lebih besar dari Protobuf (respons)
+XML-RPC 18.2x lebih besar dari Protobuf (request)
+Protobuf menghemat 93.1% ukuran

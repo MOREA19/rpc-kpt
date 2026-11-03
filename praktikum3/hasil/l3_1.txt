@@ -1,0 +1,35 @@
+Mode: L3.1 - uuid SAMA tiap percobaan (BENAR)
+Saldo awal  : A=1000  B=500  total=1500
+Transfer #01
+Transfer #02
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #03
+Transfer #04
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #05
+Transfer #06
+Transfer #07
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #08
+Transfer #09
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #10
+Transfer #11
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #12
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #13
+Transfer #14
+Transfer #15
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #16
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #17
+Transfer #18
+Transfer #19
+Transfer #20
+Saldo akhir : A=800  B=700  total=1500  (transfer dieksekusi server: 20x)
+
+A berkurang  : 200  (seharusnya 200)
+Total saldo  : 1500  (seharusnya 1500)
+HASIL        : BENAR (tepat satu kali per transfer)

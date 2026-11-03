@@ -1,0 +1,29 @@
+Server gRPC berjalan di port 50051 (workers=10, lock=ON)...
+[server:50051] TRANSFER 0fd33945 A->B 10.0
+[server:50051] TRANSFER 65cdb656 A->B 10.0
+[server:50051] DUPLIKAT 65cdb656 -> balasan lama dikirim ulang
+[server:50051] TRANSFER 2b9051f0 A->B 10.0
+[server:50051] TRANSFER 611368a7 A->B 10.0
+[server:50051] DUPLIKAT 611368a7 -> balasan lama dikirim ulang
+[server:50051] TRANSFER cb67a194 A->B 10.0
+[server:50051] TRANSFER 27f0ac71 A->B 10.0
+[server:50051] TRANSFER 9395bae7 A->B 10.0
+[server:50051] DUPLIKAT 9395bae7 -> balasan lama dikirim ulang
+[server:50051] TRANSFER 2e6da6f7 A->B 10.0
+[server:50051] TRANSFER 3fb71ed0 A->B 10.0
+[server:50051] DUPLIKAT 3fb71ed0 -> balasan lama dikirim ulang
+[server:50051] TRANSFER 4250f448 A->B 10.0
+[server:50051] TRANSFER 737ae23b A->B 10.0
+[server:50051] DUPLIKAT 737ae23b -> balasan lama dikirim ulang
+[server:50051] TRANSFER ef6a56fc A->B 10.0
+[server:50051] DUPLIKAT ef6a56fc -> balasan lama dikirim ulang
+[server:50051] TRANSFER 903cfe26 A->B 10.0
+[server:50051] TRANSFER e2e79174 A->B 10.0
+[server:50051] TRANSFER 358216be A->B 10.0
+[server:50051] DUPLIKAT 358216be -> balasan lama dikirim ulang
+[server:50051] TRANSFER 1739c4e8 A->B 10.0
+[server:50051] DUPLIKAT 1739c4e8 -> balasan lama dikirim ulang
+[server:50051] TRANSFER ad9473d7 A->B 10.0
+[server:50051] TRANSFER 08a4d04b A->B 10.0
+[server:50051] TRANSFER e17d9229 A->B 10.0
+[server:50051] TRANSFER 389b757b A->B 10.0

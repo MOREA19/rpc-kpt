@@ -1,0 +1,19 @@
+--- 1. Objek datetime ---
+XML: 
+<param>
+<value><dateTime.iso8601>20261102T09:30:15</dateTime.iso8601></value>
+</param>
+</
+Server menerima: xmlrpc.client.DateTime -> 20261102T09:30:15
+
+--- 2. Bilangan dalam batas 32-bit (2^31 - 1) ---
+2147483647
+
+--- 3. Bilangan > 2^31 ---
+OverflowError di CLIENT (sebelum dikirim): int exceeds XML-RPC limits
+
+--- 4. Solusi A: kirim sebagai string ---
+Server menerima: str -> '2147483653'
+
+--- 5. Solusi B: kirim sebagai float (double) ---
+tambah(float) = 2147483654.0

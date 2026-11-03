@@ -1,0 +1,40 @@
+Mode: L3.2 - uuid BARU tiap percobaan (SALAH)
+Saldo awal  : A=1000  B=500  total=1500
+Transfer #01
+Transfer #02
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #03
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #04
+Transfer #05
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #06
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #07
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+    Percobaan 2 gagal (DEADLINE_EXCEEDED), ulang dalam 1.0 s
+Transfer #08
+Transfer #09
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+    Percobaan 2 gagal (DEADLINE_EXCEEDED), ulang dalam 1.0 s
+Transfer #10
+Transfer #11
+Transfer #12
+Transfer #13
+Transfer #14
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #15
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+    Percobaan 2 gagal (DEADLINE_EXCEEDED), ulang dalam 1.0 s
+    GAGAL TOTAL: StatusCode.DEADLINE_EXCEEDED
+Transfer #16
+Transfer #17
+Transfer #18
+    Percobaan 1 gagal (DEADLINE_EXCEEDED), ulang dalam 0.5 s
+Transfer #19
+Transfer #20
+Saldo akhir : A=680  B=820  total=1500  (transfer dieksekusi server: 32x)
+
+A berkurang  : 320  (seharusnya 200)
+Total saldo  : 1500  (seharusnya 1500)
+HASIL        : TRANSFER GANDA / TIDAK KONSISTEN (kelebihan 120)

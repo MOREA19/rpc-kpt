@@ -1,0 +1,5 @@
+pangkat(2, 10) = 1024
+pangkat(5, 3)  = 125
+akar(144)      = 12.0
+akar(2)        = 1.4142135623730951
+akar(-4) -> Fault: <class 'ValueError'>:Akar dari bilangan negatif

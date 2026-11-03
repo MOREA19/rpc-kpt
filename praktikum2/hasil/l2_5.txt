@@ -1,0 +1,16 @@
+10 permintaan terkirim dalam 5.1 ms (client tidak diblokir)
+  #01 2023001 Andi  IPK 3.26
+  #02 2023002 Sari  IPK 3.68
+  #03 2023001 Andi  IPK 3.26
+  #04 2023002 Sari  IPK 3.68
+  #05 2023001 Andi  IPK 3.26
+  #06 2023002 Sari  IPK 3.68
+  #07 2023001 Andi  IPK 3.26
+  #08 2023002 Sari  IPK 3.68
+  #09 2023001 Andi  IPK 3.26
+  #10 2023002 Sari  IPK 3.68
+Callback menerima nama: ['Sari']
+
+Sinkron  (10x berurutan): 2.02 s
+Asinkron (10x paralel)  : 0.21 s
+Speedup                 : 9.8x
